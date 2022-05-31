@@ -1,0 +1,12 @@
+.jumbotron {
+  background-image: url('images/roadsunset.jpeg');
+  background-size: cover;
+  height: 33vh;
+  background-position: center;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
