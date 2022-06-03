@@ -6,7 +6,18 @@
 }
 
 footer {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
+  position: fixed !important;
+  bottom: 0 !important;
+  width: 100% !important;
+}
+
+.icon-instagram,
+.icon-facebook {
+  font-size: 2rem;
+  padding: 5px;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
 }
